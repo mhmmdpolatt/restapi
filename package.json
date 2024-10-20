@@ -1,0 +1,27 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "set NODE_ENV=development&& set port=3000&& set DB_PASSWORD=VHTU0ZQdWZ5GwIQj&& set JWTKEY=jwtkey&& nodemon index.js",
+    "product": "set NODE_ENV=production&& set port=8080&& nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "compression": "^1.7.4",
+    "config": "^3.3.8",
+    "express": "^4.20.0",
+    "express-async-errors": "^3.1.1",
+    "express-winston": "^4.2.0",
+    "helmet": "^6.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.2",
+    "winston-mongodb": "^5.1.0"
+  }
+}

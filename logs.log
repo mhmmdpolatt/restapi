@@ -1,0 +1,17 @@
+{"level":"error","message":"hataaa"}
+undefined
+{
+  level: 'error',
+  message: 'hataaa',
+  timestamp: 'Oct-17-2024 15:40:52'
+}
+{
+  level: 'error',
+  message: 'hataaa',
+  timestamp: 'Oct-20-2024 15:03:59'
+}
+{
+  level: 'error',
+  message: 'hataaa',
+  timestamp: 'Oct-20-2024 15:17:24'
+}

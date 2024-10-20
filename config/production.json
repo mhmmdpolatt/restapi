@@ -1,0 +1,8 @@
+{
+    "name": "nodeshop web api - produicton",
+    "db": {
+        "username": "mdpolat",
+      
+        "database": "shoppdb"
+    }
+}

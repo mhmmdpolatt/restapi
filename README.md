@@ -2,7 +2,7 @@
 
 Bu projede geliştirdiğim REST API'yi **Postman** ile test edebilirsiniz.
 
-**Deploy Edilen URL:** [https://morning-reaches-95513-bfa501e2e016.herokuapp.com/](https://morning-reaches-95513-bfa501e2e016.herokuapp.com/)
+**Deploy Edilen URL:** [https://morning-reaches-95513-bfa501e2e016.herokuapp.com/](https://morning-reaches-95513-bfa501e2e016.herokuapp.com/) Routes Klasörü Altında Bulunan Dosyaları İnceleyin
 
 ## 🚀 Kullandığım Teknolojiler
 
